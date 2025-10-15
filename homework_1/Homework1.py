@@ -260,7 +260,7 @@ def plot(x, index_matrix, t):
     plt.grid(True)
     # filename = f"figures0.1/spring_network_t{t:.2f}s.png"
     # plt.savefig(filename, dpi=300)
-    # plt.show()
+    plt.show()
 
 
 """Main Simulation Loop"""
@@ -316,7 +316,7 @@ plt.legend()
 plt.grid(True)
 plt.tight_layout()
 # plt.savefig("figures0.1/y_position_vs_time.png", dpi=300)
-# plt.show()
+plt.show()
 
 # X Position of Free Nodes vs. Time
 plt.figure(figsize=(8, 5))
@@ -330,5 +330,5 @@ plt.legend()
 plt.grid(True)
 plt.tight_layout()
 # plt.savefig("figures0.1/x_position_vs_time.png", dpi=300)
-# plt.show()
+plt.show()
 
