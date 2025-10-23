@@ -38,3 +38,10 @@ To run **Question 1** (single simulation with P = 2000 N):
 
 ```bash
 python homework2.py
+
+To run **Question 2** (simulation of multiple loads compared with Euler beam theory):
+
+```bash
+python homework2_q2.py
+
+
