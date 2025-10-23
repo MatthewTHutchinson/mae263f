@@ -1,7 +1,7 @@
 # Homework 2 – Large Deformation Beam Simulation
 
 **Author**: Matthew Hutchinson  
-**Course**: MAE 263 – Bionic Systems Engineering  
+**Course**: MAE 263F – Mechanics of Flexible Structures and Soft Robots
 **Assignment**: Homework 2  
 **Language**: Python (NumPy, Matplotlib)  
 **Dependencies**: `numpy`, `matplotlib`
