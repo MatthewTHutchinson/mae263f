@@ -39,5 +39,4 @@ Dependencies:
 ```bash
 numpy
 matplotlib
-scipy
 ```
