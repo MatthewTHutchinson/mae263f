@@ -17,12 +17,15 @@ The beam is modeled as a mass–spring chain with stretching and bending stiffne
 ---
 
 ## 📂 Folder Structure
+
+```text
 homework_3/
 ├── Homework3_HUTCHINSON.pdf      # Final report (formatted per course requirements)
 ├── homework3.py                  # Main simulation file (run this)
 ├── README.md                     # This file
+```
 
-
+---
 ## ▶️ How to Run
 
 1. Open `homework3.py` in your Python environment.
