@@ -22,7 +22,6 @@ homework_3/
 ├── Homework3_HUTCHINSON.pdf      # Final report (formatted per course requirements)
 ├── homework3.py                  # Main simulation file (run this)
 ├── README.md                     # This file
-
 ---
 
 ## ▶️ How to Run
