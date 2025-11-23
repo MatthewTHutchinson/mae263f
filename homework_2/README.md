@@ -24,8 +24,8 @@ Key tasks include:
 
 | File Name             | Description                                                                 |
 |----------------------|-----------------------------------------------------------------------------|
-| `homework2.py`       | Main simulation script for Question 1. Runs a single beam deflection test. |
-| `homework2_q2.py`    | Modularized script for Question 2. Loops through multiple loads to compare with theory. |
+| `Homework2.py`       | Main simulation script for Question 1. Runs a single beam deflection test. |
+| `Homework2_q2.py`    | Modularized script for Question 2. Loops through multiple loads to compare with theory. |
 | `HW2.pdf`            | Original problem statement (for reference).                                |
 | `Homework2_HUTCHINSON.pdf` | Final report submission with plots, analysis, and answers.          |
 
