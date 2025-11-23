@@ -1,4 +1,4 @@
-# Spring Network Simulation – Homework 1
+# Homework 1 - Spring Network Simulation
 
 This repository contains a simulation of a spring-mass network using both **Implicit Euler** and **Explicit Euler** integration methods. The goal is to investigate stability, damping, and time integration behavior of dynamic spring systems under gravity.
 
