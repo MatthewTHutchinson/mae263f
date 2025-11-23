@@ -1,5 +1,4 @@
-# MAE 263F – Homework 4  
-Axial Response of a Close-Coiled Helical Spring (DER)
+# Homework 4 - Close-Coiled Helical Spring (DER)
 
 This repository contains my solution for **Homework 4** for MAE 263F (Soft Robotics / Discrete Elastic Rods).  
 The goal is to model a close-coiled helical spring using a 3D Discrete Elastic Rod (DER) formulation, use **dynamic relaxation** to find steady states, and compare the spring’s effective axial stiffness against the classical textbook formula.
