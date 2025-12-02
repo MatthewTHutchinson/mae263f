@@ -1,4 +1,4 @@
-# Homework 2 – Large Deformation Beam Simulation
+# Homework 2 - Large Deformation Beam Simulation
 
 **Author**: Matthew Hutchinson  
 **Course**: MAE 263F – Mechanics of Flexible Structures and Soft Robots
