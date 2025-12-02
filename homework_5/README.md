@@ -24,7 +24,7 @@ The goal is to model a thin rectangular plate as a discrete elastic shell, clamp
   - Time-steps the system using a semi-implicit scheme with Newton iterations
   - Tracks the tip displacement and compares it with Euler–Bernoulli theory
 
-- `Homework5.pdf`  
+- `HW5.pdf`  
   The original homework handout/instructions for reference.
 
 ---
