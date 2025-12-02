@@ -1,4 +1,4 @@
-# Homework 3 — Robotic Control of an Elastic Beam  
+# Homework 3 - Robotic Control of an Elastic Beam  
 **MAE 263F: Mechanics of Flexible Structures & Soft Robots**  
 **Instructor:** Prof. Khalid Jawed  
 **Student:** Matthew Hutchinson  
