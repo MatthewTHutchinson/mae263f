@@ -1,4 +1,4 @@
-# Homework 5 – Discrete Elastic Shells (Cantilever Plate under Gravity)
+# Homework 5 - Discrete Elastic Shells (Cantilever Plate under Gravity)
 
 This repository contains my solution for **Homework 5** in MAE 263F / Discrete Elastic Shells.  
 The goal is to model a thin rectangular plate as a discrete elastic shell, clamp it as a cantilever, load it with gravity, and compare the simulated tip deflection against the classical Euler–Bernoulli beam prediction.
