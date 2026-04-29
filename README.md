@@ -1,2 +1,1 @@
-# MAE263F
-UCLA MAE 263F Mechanics of Flexible Structures and Soft Robots - Fall 2025
+# UCLA MAE 263F Mechanics of Flexible Structures and Soft Robots - Fall 2025
